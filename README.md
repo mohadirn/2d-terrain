@@ -1,4 +1,4 @@
-# 2d-terrain
+# 2D Terrain
 I made a modular terrain system in Godot using just ONE Path2D!
 
 I've been getting tired of using TileMaps for my platforms, so I wanted to try something different.
